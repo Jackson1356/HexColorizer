@@ -1,5 +1,5 @@
 # HexColorizer: A Python Script for Hexagonal Image Stylization
-HexColorizer transforms any image into a visually appealing hexagonal mosaic. By analyzing and averaging the colors within the boundaries of each hexagon, the script enhances images with a unique and artistic overlay. Users can specify the size of a hexagon. This tool is ideal for creative projects, graphical enhancements, or simply adding a geometric twist to your photos.
+HexColorizer transforms any image into a visually appealing hexagonal mosaic. By analyzing and averaging the colors within the boundaries of each hexagon, the script enhances images with a unique and artistic overlay. Users can specify the size of a hexagon and the range to hexagonify. This tool is ideal for creative projects, graphical enhancements, or simply adding a geometric twist to your photos.
 
 # Example
 - Lenna (220 * 220):
@@ -21,3 +21,7 @@ HexColorizer transforms any image into a visually appealing hexagonal mosaic. By
 - Hex_Maine_Cat (Hexagon size 10):
   
 ![ac7222860a94dce30a48d2751db2385](https://github.com/Jackson1356/HexColorizer/assets/108843164/0e80c0b9-69f8-43bb-b482-106bee8c7c3f)
+
+- Hex_Select_Maine_Cat (Hexagon size 10, selected are: x:(420, 760) y:(40, 400)):
+
+![Hex_Select_maine_cat](https://github.com/Jackson1356/HexColorizer/assets/108843164/085f6716-eff6-4890-ba58-09ffa6b38535)
