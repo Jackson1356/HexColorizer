@@ -1,0 +1,2 @@
+# HexColorizer
+Hexagonify an image.
