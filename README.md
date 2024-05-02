@@ -22,6 +22,6 @@ HexColorizer transforms any image into a visually appealing hexagonal mosaic. By
   
 ![ac7222860a94dce30a48d2751db2385](https://github.com/Jackson1356/HexColorizer/assets/108843164/0e80c0b9-69f8-43bb-b482-106bee8c7c3f)
 
-- Hex_Select_Maine_Cat (Hexagon size 8, selected are: x:(420, 760) y:(40, 400)):
+- Hex_Select_Maine_Cat (Hexagon size 8, selected area: x:(420, 760) y:(40, 400)):
 
 ![Hex_Select_maine_cat](https://github.com/Jackson1356/HexColorizer/assets/108843164/085f6716-eff6-4890-ba58-09ffa6b38535)
